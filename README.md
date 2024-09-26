@@ -311,7 +311,7 @@ or [IRC][libera-badge-url] server.
 
 # Contribution
 Any contribution is welcome, be it code, translations or other things. Currently, we need:
-* Developers for writing code and fixing bugs for linux, windows and macOS. We have **only one developer** and the feature requests and bugs are pilling up.
+* Developers for writing code and fixing bugs for linux, windows and macOS. We have **only one developer** and the feature requests and bugs are piling up.
 * Testers for testing releases on different OS and Distros.
 * Docu writers, there are a lot of features that the casual users don't know about.
 * Bug reporting, Please report any bugs or feature requests related to the annotation editor on the [kImageAnnotator](https://github.com/ksnip/kImageAnnotator/issues) GitHub page under the "Issue" section.
